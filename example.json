@@ -1,20 +1,25 @@
-[
-  {
-    "id": 1,
-    "name": "Alice Johnson",
-    "age": 30,
-    "occupation": "Engineer"
-  },
-  {
-    "id": 2,
-    "name": "Bob Smith",
-    "age": 25,
-    "occupation": "Designer"
-  },
-  {
-    "id": 3,
-    "name": "Charlie Brown",
-    "age": 28,
-    "occupation": "Teacher"
-  }
-]
+{
+  "cryptocurrencies": [
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "current_price": 24456.37,
+      "market_cap": 673320000000,
+      "24hr_trade_volume": 23400000000
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "current_price": 1650.32,
+      "market_cap": 201356580238,
+      "24hr_trade_volume": 5929328380
+    },
+    {
+      "name": "Cardano",
+      "symbol": "ADA",
+      "current_price": 0.295957,
+      "market_cap": 10429125494,
+      "24hr_trade_volume": 116956025
+    }
+  ]
+}
